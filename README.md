@@ -199,6 +199,11 @@ Digital-Marketing-Customer-Segmentation/
 
 ---
 
+## Live Dashboard
+
+Explore the interactive Looker Studio dashboard here:
+
+https://datastudio.google.com/s/s5UevG3cxOc
 #  Dashboard Preview
 
 ## Executive Overview
